@@ -47,3 +47,15 @@ Saving Cart: Whenever the cart is updated (item added or removed), the new cart 
 
 Conclusion:
 This app provides a basic structure for a Shopping application with product listing, detailed product view, and cart functionality. It demonstrates how to fetch data from an API, manage state with React hooks, and persist data using AsyncStorage. The design focuses on a clean and intuitive user experience, with easy navigation and seamless cart management.
+
+![homepage](https://github.com/js-for-react-native-11163851/rn-assignment7-11163851/assets/170243660/55b4dbca-a342-4b3c-bf41-d5d39cea6f5c)
+
+![homepage1](https://github.com/js-for-react-native-11163851/rn-assignment7-11163851/assets/170243660/afe932da-dddf-44fa-a03d-2cd73c3fe29d)
+
+![productdetails](https://github.com/js-for-react-native-11163851/rn-assignment7-11163851/assets/170243660/2021e618-0269-4641-921d-12c2e698c587)
+
+![productdetails1](https://github.com/js-for-react-native-11163851/rn-assignment7-11163851/assets/170243660/e7266095-9f22-4c6f-93c9-c11eac8880f7)
+
+![cartpage](https://github.com/js-for-react-native-11163851/rn-assignment7-11163851/assets/170243660/3cac3499-6f5c-427e-9b06-2878b4b64a2e)
+
+
